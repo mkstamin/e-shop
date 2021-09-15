@@ -11,7 +11,7 @@ Follow the instructions below to run it:
 
 1. Clone this repository
    ```sh
-   git clone https://github.com/mkstamin/setup-reactjs.git
+   git clone https://github.com/mkstamin/e-shop.git
    ```
 2. Run
    ```sh
